@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasuf Mutlu</h1>
 <h3 align="center">A passionate Junior .Net Developer</h3>
 
-- 🔭 I’m currently working on [Project Management System](https://github.com/nasufmutludev/ProjectManagementSystem)
+<!--- 🔭 I’m currently working on [Project Management System](https://github.com/nasufmutludev/ProjectManagementSystem)-->
 
 - 🌱 I’m currently learning **CQRS**
 
