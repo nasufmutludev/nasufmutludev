@@ -3,8 +3,6 @@
 
 <!--- 🔭 I’m currently working on [Project Management System](https://github.com/nasufmutludev/ProjectManagementSystem)-->
 
-- 🌱 I’m currently learning **CQRS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/nasufmutludev](https://github.com/nasufmutludev)
 
 - 📫 How to reach me **nasufmutlu@hotmail.com**
